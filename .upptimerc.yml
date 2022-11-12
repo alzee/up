@@ -40,3 +40,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   user-agent: github-alzee-up
   theme: dark
+  favicon: log-192.png
+  # faviconSvg: https://example.com/logo.svg
