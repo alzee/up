@@ -30,7 +30,7 @@ sites:
 status-website:
   name: Upptime
   cname: up.itove.com
-  logoUrl: logo.svg
+  logoUrl: logo-192.png
   navbar:
     - title: Status
       href: /
