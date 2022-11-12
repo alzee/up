@@ -8,6 +8,24 @@ sites:
     url: https://img.itove.com
   - name: zhibao.itove.com
     url: https://zhibao.itove.com
+  - name: alz.ee
+    url: https://alz.ee
+  - name: syzszz.cn
+    url: https://syzszz.cn
+  - name: m.syzszz.cn
+    url: https://m.syzszz.cn
+  - name: fxkyss.com
+    url: https://fxkyss.com
+  - name: hbljk.cn
+    url: https://hbljk.cn
+  - name: gjj.itove.com
+    url: https://gjj.itove.com
+  - name: stamp.itove.com
+    url: https://stamp.itove.com
+  - name: qstamp.itove.com
+    url: https://qstamp.itove.com
+  - name: music.itove.com
+    url: https://music.itove.com
   
 status-website:
   name: Upptime
