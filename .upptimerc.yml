@@ -24,6 +24,8 @@ sites:
     url: https://stamp.itove.com
   - name: qstamp.itove.com
     url: https://qstamp.itove.com
+  - name: bounty.itove.com
+    url: https://bounty.itove.com
   - name: music.itove.com
     url: https://music.itove.com
   
