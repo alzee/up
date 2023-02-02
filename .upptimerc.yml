@@ -28,6 +28,8 @@ sites:
     url: https://bounty.itove.com
   - name: music.itove.com
     url: https://music.itove.com
+  - name: www.sygrdyf.com
+    url: http://www.sygrdyf.com
   
 status-website:
   name: Upptime
