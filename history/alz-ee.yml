@@ -1,7 +1,7 @@
 url: https://alz.ee
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2023-05-25T23:12:44.466Z
+status: down
+code: 500
+responseTime: 923
+lastUpdated: 2023-05-26T20:21:40.931Z
 startTime: Sat Nov 12 2022 09:24:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
