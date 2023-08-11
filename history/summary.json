@@ -4,10 +4,10 @@
     "url": "https://itove.com",
     "icon": "https://icons.duckduckgo.com/ip3/itove.com.ico",
     "slug": "itove-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.37%",
     "time": 698,
@@ -68,8 +68,7 @@
       "2022-12-06": 38,
       "2022-12-05": 67,
       "2022-12-04": 7,
-      "2022-12-03": 54,
-      "2022-12-02": 6
+      "2022-12-03": 54
     }
   },
   {
@@ -480,9 +479,9 @@
     "slug": "gjj-itove-com",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.45%",
     "time": 979,
     "timeDay": 1227,
@@ -490,7 +489,6 @@
     "timeMonth": 1043,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2023-08-11": 7,
       "2023-06-10": 319,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -541,7 +539,8 @@
       "2022-11-29": 22,
       "2022-11-28": 13,
       "2022-11-27": 4,
-      "2022-11-26": 3
+      "2022-11-26": 3,
+      "2022-11-25": 4
     }
   },
   {
@@ -550,18 +549,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stamp.itove.com.ico",
     "slug": "stamp-itove-com",
     "status": "up",
-    "uptime": "98.35%",
-    "uptimeDay": "66.38%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.35%",
+    "uptime": "98.33%",
+    "uptimeDay": "63.32%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.33%",
     "time": 777,
     "timeDay": 5390,
     "timeWeek": 2051,
     "timeMonth": 1085,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-08-11": 484,
+      "2023-08-11": 528,
       "2023-06-10": 319,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
