@@ -151,11 +151,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhibao.itove.com.ico",
     "slug": "zhibao-itove-com",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.48%",
     "time": 917,
     "timeDay": 830,
     "timeWeek": 792,
@@ -372,9 +372,9 @@
     "slug": "fxkyss-com",
     "status": "up",
     "uptime": "95.74%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "95.74%",
     "time": 924,
     "timeDay": 911,
@@ -382,7 +382,6 @@
     "timeMonth": 941,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2023-08-28": 14,
       "2023-08-11": 49,
       "2023-04-09": 41,
       "2023-04-02": 4,
@@ -440,7 +439,7 @@
       "2022-11-28": 14,
       "2022-11-27": 4,
       "2022-11-26": 4,
-      "2022-11-25": 20
+      "2022-11-25": 25
     }
   },
   {
@@ -481,9 +480,9 @@
     "slug": "gjj-itove-com",
     "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.54%",
     "time": 980,
     "timeDay": 993,
@@ -491,7 +490,6 @@
     "timeMonth": 1041,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2023-08-28": 13,
       "2023-06-10": 319,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -542,7 +540,8 @@
       "2022-11-29": 22,
       "2022-11-28": 13,
       "2022-11-27": 4,
-      "2022-11-26": 3
+      "2022-11-26": 3,
+      "2022-11-25": 4
     }
   },
   {
@@ -552,9 +551,9 @@
     "slug": "stamp-itove-com",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "97.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.10%",
     "uptimeYear": "98.25%",
     "time": 777,
     "timeDay": 676,
@@ -562,7 +561,6 @@
     "timeMonth": 1044,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-08-28": 13,
       "2023-08-12": 370,
       "2023-08-11": 901,
       "2023-06-10": 319,
@@ -614,7 +612,7 @@
       "2022-11-26": 3,
       "2022-11-25": 21,
       "2022-11-24": 6,
-      "2022-11-23": 16
+      "2022-11-23": 47
     }
   },
   {
@@ -690,18 +688,19 @@
     "url": "https://bounty.itove.com",
     "icon": "https://icons.duckduckgo.com/ip3/bounty.itove.com.ico",
     "slug": "bounty-itove-com",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.49%",
     "time": 1268,
     "timeDay": 1268,
     "timeWeek": 1239,
     "timeMonth": 1368,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2023-08-28": 1,
       "2023-08-11": 46,
       "2023-06-10": 320,
       "2023-06-09": 1440,
@@ -750,7 +749,7 @@
       "2022-11-25": 18,
       "2022-11-24": 4,
       "2022-11-23": 43,
-      "2022-11-22": 35
+      "2022-11-22": 15
     }
   },
   {
@@ -759,11 +758,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.itove.com.ico",
     "slug": "music-itove-com",
     "status": "up",
-    "uptime": "71.52%",
+    "uptime": "71.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "71.52%",
+    "uptimeYear": "71.53%",
     "time": 1550,
     "timeDay": 1651,
     "timeWeek": 1558,
