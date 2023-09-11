@@ -6,9 +6,9 @@
     "slug": "itove-com",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "98.51%",
     "time": 816,
     "timeDay": 3812,
@@ -16,7 +16,6 @@
     "timeMonth": 1841,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2023-09-11": 13,
       "2023-09-09": 113,
       "2023-08-29": 16,
       "2023-08-11": 21,
@@ -70,7 +69,8 @@
       "2022-12-07": 41,
       "2022-12-06": 38,
       "2022-12-05": 67,
-      "2022-12-04": 7
+      "2022-12-04": 7,
+      "2022-12-03": 6
     }
   },
   {
@@ -80,9 +80,9 @@
     "slug": "img-itove-com",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "98.52%",
     "time": 1000,
     "timeDay": 5013,
@@ -90,7 +90,6 @@
     "timeMonth": 1695,
     "timeYear": 1000,
     "dailyMinutesDown": {
-      "2023-09-11": 6,
       "2023-09-10": 57,
       "2023-09-09": 83,
       "2023-08-29": 15,
@@ -145,7 +144,7 @@
       "2022-12-05": 66,
       "2022-12-04": 6,
       "2022-12-03": 53,
-      "2022-12-02": 6
+      "2022-12-02": 37
     }
   },
   {
@@ -557,7 +556,7 @@
     "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.45%",
-    "uptimeMonth": "97.41%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "98.31%",
     "time": 821,
     "timeDay": 608,
@@ -763,19 +762,19 @@
     "url": "https://music.itove.com",
     "icon": "https://icons.duckduckgo.com/ip3/music.itove.com.ico",
     "slug": "music-itove-com",
-    "status": "down",
+    "status": "up",
     "uptime": "72.85%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "72.85%",
-    "time": 1574,
-    "timeDay": 1475,
-    "timeWeek": 1541,
-    "timeMonth": 1682,
-    "timeYear": 1574,
+    "time": 1575,
+    "timeDay": 1727,
+    "timeWeek": 1570,
+    "timeMonth": 1690,
+    "timeYear": 1575,
     "dailyMinutesDown": {
-      "2023-09-11": 1,
+      "2023-09-11": 5,
       "2023-09-10": 49,
       "2023-09-09": 44,
       "2023-08-11": 200,
