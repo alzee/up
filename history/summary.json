@@ -78,11 +78,11 @@
     "url": "https://img.itove.com",
     "icon": "https://icons.duckduckgo.com/ip3/img.itove.com.ico",
     "slug": "img-itove-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "98.53%",
     "time": 1041,
     "timeDay": 2100,
@@ -90,7 +90,7 @@
     "timeMonth": 1930,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2023-09-13": 17,
+      "2023-09-13": 19,
       "2023-09-12": 17,
       "2023-09-10": 57,
       "2023-09-09": 83,
@@ -145,7 +145,7 @@
       "2022-12-06": 37,
       "2022-12-05": 66,
       "2022-12-04": 6,
-      "2022-12-03": 53
+      "2022-12-03": 35
     }
   },
   {
@@ -155,9 +155,9 @@
     "slug": "zhibao-itove-com",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "98.51%",
     "time": 963,
     "timeDay": 1649,
@@ -165,7 +165,7 @@
     "timeMonth": 1288,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-09-13": 40,
+      "2023-09-13": 34,
       "2023-09-12": 16,
       "2023-09-10": 107,
       "2023-09-09": 102,
@@ -217,7 +217,8 @@
       "2022-12-05": 62,
       "2022-12-04": 6,
       "2022-12-03": 50,
-      "2022-12-02": 47
+      "2022-12-02": 47,
+      "2022-12-01": 9
     }
   },
   {
@@ -245,17 +246,17 @@
     "slug": "syzszz-cn",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.68%",
     "time": 1302,
-    "timeDay": 3586,
+    "timeDay": 1191,
     "timeWeek": 2276,
     "timeMonth": 2265,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2023-09-13": 58,
+      "2023-09-13": 53,
       "2023-09-12": 16,
       "2023-09-10": 107,
       "2023-09-09": 189,
@@ -303,7 +304,7 @@
       "2022-12-05": 59,
       "2022-12-04": 5,
       "2022-12-03": 49,
-      "2022-12-02": 5
+      "2022-12-02": 35
     }
   },
   {
@@ -318,7 +319,7 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.70%",
     "time": 1290,
-    "timeDay": 2429,
+    "timeDay": 1549,
     "timeWeek": 1652,
     "timeMonth": 1590,
     "timeYear": 1290,
@@ -486,9 +487,9 @@
     "slug": "gjj-itove-com",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "98.61%",
     "time": 1067,
     "timeDay": 1515,
@@ -496,7 +497,6 @@
     "timeMonth": 1805,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2023-09-13": 4,
       "2023-09-09": 83,
       "2023-06-10": 319,
       "2023-06-09": 1440,
@@ -546,7 +546,7 @@
       "2022-12-01": 13,
       "2022-11-30": 19,
       "2022-11-29": 22,
-      "2022-11-28": 4
+      "2022-11-28": 7
     }
   },
   {
@@ -556,9 +556,9 @@
     "slug": "stamp-itove-com",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "87.16%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "86.51%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "98.28%",
     "time": 849,
     "timeDay": 3390,
@@ -566,7 +566,7 @@
     "timeMonth": 1491,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-09-13": 185,
+      "2023-09-13": 195,
       "2023-09-10": 58,
       "2023-09-09": 98,
       "2023-08-12": 370,
@@ -767,9 +767,9 @@
     "slug": "music-itove-com",
     "status": "up",
     "uptime": "73.03%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "73.03%",
     "time": 1582,
     "timeDay": 1884,
@@ -777,7 +777,7 @@
     "timeMonth": 1733,
     "timeYear": 1582,
     "dailyMinutesDown": {
-      "2023-09-13": 23,
+      "2023-09-13": 21,
       "2023-09-10": 49,
       "2023-09-09": 44,
       "2023-08-11": 200,
