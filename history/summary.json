@@ -159,10 +159,10 @@
     "url": "https://zhibao.itove.com",
     "icon": "https://icons.duckduckgo.com/ip3/zhibao.itove.com.ico",
     "slug": "zhibao-itove-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.63%",
     "time": 1067,
@@ -171,6 +171,7 @@
     "timeMonth": 956,
     "timeYear": 1067,
     "dailyMinutesDown": {
+      "2023-10-30": 1,
       "2023-10-13": 47,
       "2023-09-25": 51,
       "2023-09-24": 20,
@@ -228,7 +229,7 @@
       "2022-12-10": 22,
       "2022-12-09": 30,
       "2022-12-08": 5,
-      "2022-12-07": 37
+      "2022-12-07": 17
     }
   },
   {
@@ -473,10 +474,10 @@
     "url": "https://hbljk.cn",
     "icon": "https://icons.duckduckgo.com/ip3/hbljk.cn.ico",
     "slug": "hbljk-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.90%",
     "time": 1888,
@@ -485,7 +486,7 @@
     "timeMonth": 2314,
     "timeYear": 1888,
     "dailyMinutesDown": {
-      "2023-10-30": 35,
+      "2023-10-30": 36,
       "2023-10-13": 22,
       "2023-09-16": 33,
       "2023-09-13": 54,
@@ -807,7 +808,7 @@
     "uptime": "71.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.29%",
+    "uptimeMonth": "67.35%",
     "uptimeYear": "71.05%",
     "time": 1826,
     "timeDay": 1329,
