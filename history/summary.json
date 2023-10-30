@@ -82,11 +82,11 @@
     "url": "https://img.itove.com",
     "icon": "https://icons.duckduckgo.com/ip3/img.itove.com.ico",
     "slug": "img-itove-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.65%",
     "time": 1162,
     "timeDay": 1595,
@@ -94,6 +94,7 @@
     "timeMonth": 1099,
     "timeYear": 1162,
     "dailyMinutesDown": {
+      "2023-10-30": 4,
       "2023-10-13": 77,
       "2023-09-25": 99,
       "2023-09-21": 77,
@@ -150,8 +151,7 @@
       "2022-12-12": 59,
       "2022-12-11": 110,
       "2022-12-10": 22,
-      "2022-12-09": 30,
-      "2022-12-08": 6
+      "2022-12-09": 30
     }
   },
   {
@@ -327,9 +327,9 @@
     "slug": "m-syzszz-cn",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.46%",
     "time": 1499,
     "timeDay": 1233,
@@ -337,7 +337,7 @@
     "timeMonth": 1744,
     "timeYear": 1499,
     "dailyMinutesDown": {
-      "2023-10-30": 35,
+      "2023-10-30": 23,
       "2023-10-13": 73,
       "2023-09-25": 115,
       "2023-09-24": 26,
@@ -382,7 +382,8 @@
       "2022-12-14": 17,
       "2022-12-13": 18,
       "2022-12-12": 54,
-      "2022-12-11": 99
+      "2022-12-11": 99,
+      "2022-12-10": 5
     }
   },
   {
@@ -472,10 +473,10 @@
     "url": "https://hbljk.cn",
     "icon": "https://icons.duckduckgo.com/ip3/hbljk.cn.ico",
     "slug": "hbljk-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 1878,
@@ -484,6 +485,7 @@
     "timeMonth": 2233,
     "timeYear": 1878,
     "dailyMinutesDown": {
+      "2023-10-30": 2,
       "2023-10-13": 22,
       "2023-09-16": 33,
       "2023-09-13": 54,
@@ -804,7 +806,7 @@
     "uptime": "71.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.85%",
+    "uptimeMonth": "65.89%",
     "uptimeYear": "71.02%",
     "time": 1829,
     "timeDay": 1348,
