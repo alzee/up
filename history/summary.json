@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.72%",
     "time": 1046,
-    "timeDay": 788,
-    "timeWeek": 677,
-    "timeMonth": 698,
-    "timeYear": 1116,
+    "timeDay": 760,
+    "timeWeek": 670,
+    "timeMonth": 707,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2024-01-02": 17,
       "2023-12-20": 28,
@@ -55,8 +55,7 @@
       "2023-03-15": 6,
       "2023-03-14": 8,
       "2023-03-11": 10,
-      "2023-03-09": 95,
-      "2023-03-08": 16
+      "2023-03-09": 95
     }
   },
   {
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 1253,
-    "timeDay": 746,
-    "timeWeek": 800,
-    "timeMonth": 851,
+    "timeDay": 993,
+    "timeWeek": 786,
+    "timeMonth": 858,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2024-01-02": 17,
@@ -107,8 +106,7 @@
       "2023-03-14": 8,
       "2023-03-11": 10,
       "2023-03-10": 8,
-      "2023-03-09": 95,
-      "2023-03-08": 10
+      "2023-03-09": 95
     }
   },
   {
@@ -117,16 +115,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zhibao.itove.com.ico",
     "slug": "zhibao-itove-com",
     "status": "up",
-    "uptime": "92.95%",
+    "uptime": "92.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.84%",
     "time": 1107,
-    "timeDay": 752,
-    "timeWeek": 843,
-    "timeMonth": 881,
-    "timeYear": 1109,
+    "timeDay": 1049,
+    "timeWeek": 878,
+    "timeMonth": 896,
+    "timeYear": 1110,
     "dailyMinutesDown": {
       "2024-01-02": 16,
       "2023-12-20": 101,
@@ -188,8 +186,7 @@
       "2023-03-16": 21,
       "2023-03-15": 6,
       "2023-03-14": 7,
-      "2023-03-09": 93,
-      "2023-03-08": 6
+      "2023-03-09": 93
     }
   },
   {
@@ -198,18 +195,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/alz.ee.ico",
     "slug": "alz-ee",
     "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "63.91%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.73%",
+    "uptime": "98.83%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "80.69%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "98.46%",
     "time": 605,
     "timeDay": 0,
-    "timeWeek": 524,
-    "timeMonth": 595,
-    "timeYear": 617,
+    "timeWeek": 516,
+    "timeMonth": 599,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-03-06": 76,
+      "2024-03-07": 63,
+      "2024-03-06": 1440,
       "2024-03-05": 444,
       "2024-01-02": 19,
       "2023-12-21": 154,
@@ -226,16 +224,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/syzszz.cn.ico",
     "slug": "syzszz-cn",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
-    "time": 1632,
-    "timeDay": 1126,
-    "timeWeek": 1047,
-    "timeMonth": 1117,
-    "timeYear": 1742,
+    "time": 1631,
+    "timeDay": 1227,
+    "timeWeek": 1061,
+    "timeMonth": 1128,
+    "timeYear": 1743,
     "dailyMinutesDown": {
       "2024-01-02": 16,
       "2023-12-24": 17,
@@ -269,8 +267,7 @@
       "2023-03-16": 20,
       "2023-03-14": 7,
       "2023-03-10": 7,
-      "2023-03-09": 93,
-      "2023-03-08": 6
+      "2023-03-09": 93
     }
   },
   {
@@ -285,10 +282,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 1519,
-    "timeDay": 1135,
-    "timeWeek": 1143,
-    "timeMonth": 1241,
-    "timeYear": 1608,
+    "timeDay": 1319,
+    "timeWeek": 1157,
+    "timeMonth": 1254,
+    "timeYear": 1609,
     "dailyMinutesDown": {
       "2024-01-02": 15,
       "2023-12-20": 21,
@@ -315,8 +312,7 @@
       "2023-03-19": 4,
       "2023-03-16": 20,
       "2023-03-14": 24,
-      "2023-03-09": 12,
-      "2023-03-08": 44
+      "2023-03-09": 12
     }
   },
   {
@@ -325,15 +321,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fxkyss.com.ico",
     "slug": "fxkyss-com",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 1356,
-    "timeDay": 1029,
-    "timeWeek": 907,
-    "timeMonth": 934,
+    "time": 1357,
+    "timeDay": 1042,
+    "timeWeek": 906,
+    "timeMonth": 945,
     "timeYear": 1418,
     "dailyMinutesDown": {
       "2023-12-20": 25,
@@ -364,8 +360,7 @@
       "2023-03-16": 19,
       "2023-03-15": 6,
       "2023-03-14": 13,
-      "2023-03-11": 5,
-      "2023-03-08": 34
+      "2023-03-11": 5
     }
   },
   {
@@ -380,10 +375,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1905,
-    "timeDay": 1638,
-    "timeWeek": 1569,
-    "timeMonth": 1680,
-    "timeYear": 1980,
+    "timeDay": 1761,
+    "timeWeek": 1567,
+    "timeMonth": 1702,
+    "timeYear": 1981,
     "dailyMinutesDown": {
       "2024-01-13": 16,
       "2023-10-30": 35,
@@ -406,10 +401,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.89%",
     "time": 1271,
-    "timeDay": 871,
-    "timeWeek": 1134,
-    "timeMonth": 1091,
-    "timeYear": 1332,
+    "timeDay": 1234,
+    "timeWeek": 1162,
+    "timeMonth": 1102,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2023-12-20": 21,
       "2023-10-30": 31,
@@ -443,16 +438,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stamp.itove.com.ico",
     "slug": "stamp-itove-com",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.98%",
-    "time": 1148,
-    "timeDay": 1086,
-    "timeWeek": 1149,
-    "timeMonth": 1227,
-    "timeYear": 1219,
+    "time": 1149,
+    "timeDay": 1382,
+    "timeWeek": 1156,
+    "timeMonth": 1248,
+    "timeYear": 1220,
     "dailyMinutesDown": {
       "2024-01-02": 68,
       "2023-12-18": 34,
@@ -495,16 +490,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/qstamp.itove.com.ico",
     "slug": "qstamp-itove-com",
     "status": "up",
-    "uptime": "92.38%",
+    "uptime": "92.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.07%",
     "time": 1052,
-    "timeDay": 627,
-    "timeWeek": 703,
-    "timeMonth": 724,
-    "timeYear": 1160,
+    "timeDay": 1417,
+    "timeWeek": 782,
+    "timeMonth": 758,
+    "timeYear": 1161,
     "dailyMinutesDown": {
       "2023-12-20": 410,
       "2023-12-19": 1440,
@@ -562,8 +557,7 @@
       "2023-03-15": 11,
       "2023-03-14": 5,
       "2023-03-13": 6,
-      "2023-03-09": 12,
-      "2023-03-08": 26
+      "2023-03-09": 12
     }
   },
   {
@@ -578,10 +572,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
     "time": 1438,
-    "timeDay": 1137,
-    "timeWeek": 1097,
-    "timeMonth": 1204,
-    "timeYear": 1462,
+    "timeDay": 1412,
+    "timeWeek": 1106,
+    "timeMonth": 1225,
+    "timeYear": 1463,
     "dailyMinutesDown": {
       "2023-12-20": 23,
       "2023-10-13": 39,
@@ -606,8 +600,7 @@
       "2023-03-16": 17,
       "2023-03-14": 5,
       "2023-03-13": 5,
-      "2023-03-09": 7,
-      "2023-03-08": 7
+      "2023-03-09": 7
     }
   },
   {
@@ -616,18 +609,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.itove.com.ico",
     "slug": "music-itove-com",
     "status": "down",
-    "uptime": "56.42%",
+    "uptime": "56.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "54.68%",
-    "time": 1859,
+    "uptimeYear": "54.41%",
+    "time": 1861,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1948,
+    "timeYear": 1950,
     "dailyMinutesDown": {
-      "2024-03-06": 77,
+      "2024-03-07": 63,
+      "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -813,8 +807,7 @@
       "2023-03-16": 17,
       "2023-03-14": 7,
       "2023-03-12": 6,
-      "2023-03-11": 6,
-      "2023-03-08": 8
+      "2023-03-11": 6
     }
   },
   {
@@ -823,16 +816,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sygrdyf.com.ico",
     "slug": "www-sygrdyf-com",
     "status": "up",
-    "uptime": "95.58%",
+    "uptime": "95.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.25%",
+    "uptimeMonth": "50.51%",
     "uptimeYear": "95.24%",
-    "time": 1371,
-    "timeDay": 917,
-    "timeWeek": 870,
-    "timeMonth": 804,
-    "timeYear": 1376,
+    "time": 1370,
+    "timeDay": 1016,
+    "timeWeek": 864,
+    "timeMonth": 819,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2024-02-22": 144,
       "2024-02-21": 1440,
