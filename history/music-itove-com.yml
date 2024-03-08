@@ -1,7 +1,7 @@
 url: https://music.itove.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-07T23:15:33.777Z
+status: up
+code: 200
+responseTime: 1455
+lastUpdated: 2024-03-08T19:23:36.170Z
 startTime: 2022-11-12T09:25:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
