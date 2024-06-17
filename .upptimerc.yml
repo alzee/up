@@ -4,6 +4,10 @@ repo: up
 sites:
   - name: itove.com
     url: https://itove.com
+  - name: cc.itove.com
+    url: https://cc.itove.com
+  - name: music.itove.com
+    url: https://music.itove.com
   - name: img.itove.com
     url: https://img.itove.com
   - name: zhibao.itove.com
@@ -26,8 +30,6 @@ sites:
     url: https://qstamp.itove.com
   - name: bounty.itove.com
     url: https://bounty.itove.com
-  - name: music.itove.com
-    url: https://music.itove.com
   
 status-website:
   name: Upptime
@@ -40,7 +42,7 @@ status-website:
       href: https://itove.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  user-agent: github-alzee-up
+  user-agent: github-itove-up
   theme: dark
   favicon: log-192.png
   # faviconSvg: https://example.com/logo.svg
