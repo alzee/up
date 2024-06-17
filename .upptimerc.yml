@@ -30,6 +30,8 @@ sites:
     url: https://qstamp.itove.com
   - name: bounty.itove.com
     url: https://bounty.itove.com
+  - name: www.sygrdyf.com
+    url: http://www.sygrdyf.com
   
 status-website:
   name: Upptime
